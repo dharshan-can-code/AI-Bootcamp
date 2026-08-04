@@ -1,0 +1,11 @@
+What did you learn today?
+Today, I learned about getting started with Git and GitHub, basic git commands, and creating and managing repositories
+
+What was the most challenging concept?
+Interconnecting local and remote repositories
+
+What are you most proud of?
+Successfully creating and updating my repository
+
+What questions do you still have?
+None as of now
